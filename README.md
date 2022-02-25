@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABISHEK-KUMAR
 - 👀 I’m interested in  lots of movies and series
 - 🌱 I’m currently learning  javascript
-- 💞️ I’m looking to collaborate on learning new things & realizing mistake's.
+- 💞️ I’m looking to collaborate on learning new things & correcting mistake's.
 - 📫 How to reach me abishekku.95@gmail.com
 
 <!---
