@@ -37,22 +37,21 @@
 
 <h3>:handshake: CONNECT WITH ME</h3>
 <p align="left">
-<a href="mailto:raveesh512@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="raveesh-gowda" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/raveesh-gowda-k-121b591a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raveesh-gowda" height="30" width="40" /></a>
-<a href="https://instagram.com/ravee5h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raveesh-gowda" height="30" width="40" /></a>
+<a href="mailto:abishekku.95@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abishekkumar95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="30" width="40" /></a>
 </p>
 
 <br/>
 
 <h3>:chart_with_upwards_trend: MY STATS</h3>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raveesh-gowda&show_icons=true&locale=en&layout=compact" alt="raveesh-gowda" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ABISHEK-KU&show_icons=true&locale=en&layout=compact" alt="ABISHEK-KU" /></p>
 
 <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raveesh-gowda&show_icons=true" alt="raveesh-gowda" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ABISHEK-KU&show_icons=true" alt="ABISHEK-KU" /> </p>
 
 <!---
-raveesh-gowda/raveesh-gowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABISHEK-KU/ABISHEK-KU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
